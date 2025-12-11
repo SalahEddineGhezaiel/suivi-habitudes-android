@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Suivi d\'Habitudes</string>
+    
+    
+    <string name="login_title">Suivi Habitudes</string>
+    <string name="login_subtitle">Suivez vos habitudes, construisez votre avenir</string>
+    <string name="welcome_back">Bon retour !</string>
+    <string name="email_hint">Adresse e-mail</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="no_account">Pas de compte ?</string>
+    <string name="register_here">S\'inscrire ici</string>
+    <string name="join_today">Rejoignez-nous !</string>
+    <string name="register_subtitle">Commencez à suivre vos habitudes et à créer de meilleures routines</string>
+    <string name="create_account_title">Créer un compte</string>
+    <string name="full_name_hint">Nom complet</string>
+    <string name="create_account_button">Créer un compte</string>
+    
+    
+    <string name="my_habits">Mes Habitudes</string>
+    <string name="no_habits_title">Aucune habitude pour le moment !</string>
+    <string name="no_habits_subtitle">Commencez à développer de meilleures habitudes en ajoutant votre première</string>
+    <string name="add_first_habit">Ajouter votre première habitude</string>
+    
+    
+    <string name="add_new_habit">Nouvelle Habitude</string>
+    <string name="edit_habit">Modifier l\'Habitude</string>
+    <string name="habit_title_hint">Titre de l\'habitude</string>
+    <string name="description_hint">Description (optionnelle)</string>
+    <string name="category_hint">Catégorie (ex: Santé, Sport, Étude)</string>
+    <string name="save_habit">Enregistrer l\'habitude</string>
+    
+    
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="save">Enregistrer</string>
+    
+    
+    <string name="login_successful">Connexion réussie</string>
+    <string name="invalid_credentials">Identifiants invalides</string>
+    <string name="connection_error">Erreur de connexion</string>
+    <string name="login_failed">Échec de la connexion</string>
+    <string name="habit_created">Habitude créée avec succès</string>
+    <string name="habit_updated">Habitude modifiée avec succès</string>
+    <string name="habit_deleted">Habitude supprimée avec succès</string>
+    <string name="delete_confirmation">Êtes-vous sûr de vouloir supprimer cette habitude ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    
+    
+    <string name="invalid_email">Veuillez entrer une adresse e-mail valide</string>
+    <string name="password_too_short">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="name_required">Le nom est requis</string>
+    <string name="title_required">Le titre est requis</string>
+</resources>
