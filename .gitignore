@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# IDE settings
+/.idea/
+
+# Signing keys and release artifacts
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# Local backend config (copy PHP/db_config.example.php)
+PHP/db_config.php
