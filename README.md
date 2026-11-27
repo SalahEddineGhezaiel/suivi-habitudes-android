@@ -34,3 +34,7 @@ Android app (Java) to track daily habits: create habits by category, check them 
 - `app/src/main/java/.../api` – Retrofit client and service
 - `app/src/main/java/.../models` – API data models
 - `PHP/` – backend endpoints
+
+## Authors
+- [@SalahEddineGhezaiel](https://github.com/SalahEddineGhezaiel)
+- [@SalahGhezaiel](https://github.com/SalahGhezaiel)
