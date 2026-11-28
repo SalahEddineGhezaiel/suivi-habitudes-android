@@ -38,3 +38,6 @@ Android app (Java) to track daily habits: create habits by category, check them 
 ## Authors
 - [@SalahEddineGhezaiel](https://github.com/SalahEddineGhezaiel)
 - [@SalahGhezaiel](https://github.com/SalahGhezaiel)
+
+## Contributing
+Issues and pull requests are welcome.
